@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Home = () => {
   const openUrl = (url: string) => {
-    window.open(url, '_blank')
+    window.location.href = (url)
   }
 
   return (
