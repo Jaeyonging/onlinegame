@@ -7,7 +7,7 @@ const PlayGame = lazy(() => import('./components/PlayGame'));
 
 function App() {
   return (
-    <Suspense fallback={<div>로딩중</div>}>
+    <Suspense fallback={<div>Loading</div>}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/games/:name" element={<PlayGame />} />
