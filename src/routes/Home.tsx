@@ -13,6 +13,12 @@ export const Home = () => {
       >
         Button
       </div>
+      <div
+        className='w-[100px] text-[white] bg-[black] cursor-pointer'
+        onClick={() => navigate(`/games/racing?dan=${dan}`)}
+      >
+        Button
+      </div>
     </div>
   )
 }
