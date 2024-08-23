@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams, useLocation } from 'react-router-dom';
 
-export const PlayGame = () => {
+const PlayGame = () => {
     const { name } = useParams<{ name: string }>();
     const location = useLocation();
     const queryParams = location.search;
@@ -14,3 +14,5 @@ export const PlayGame = () => {
         />
     );
 };
+
+export default PlayGame;

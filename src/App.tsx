@@ -1,8 +1,9 @@
-import { Suspense } from "react";
+import { lazy, Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 import { Home } from "./routes/Home";
-import { PlayGame } from "./components/PlayGame";
 import './App.css';
+
+const PlayGame = lazy(() => import('./components/PlayGame'));
 
 function App() {
   return (
@@ -11,7 +12,6 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/games/:name" element={<PlayGame />} />
       </Routes>
-
     </Suspense>
   );
 }
