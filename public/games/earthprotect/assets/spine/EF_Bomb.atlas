@@ -1,0 +1,118 @@
+
+EF_Bomb.png
+size: 1571,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+expl_01_01
+  rotate: true
+  xy: 1009, 189
+  size: 214, 207
+  orig: 256, 256
+  offset: 20, 27
+  index: -1
+expl_01_02
+  rotate: true
+  xy: 749, 2
+  size: 176, 103
+  orig: 256, 256
+  offset: 39, 87
+  index: -1
+expl_01_03
+  rotate: true
+  xy: 1253, 4
+  size: 188, 134
+  orig: 256, 256
+  offset: 32, 61
+  index: -1
+expl_01_04
+  rotate: true
+  xy: 1416, 204
+  size: 199, 153
+  orig: 256, 256
+  offset: 25, 47
+  index: -1
+expl_01_05
+  rotate: false
+  xy: 1043, 14
+  size: 208, 173
+  orig: 256, 256
+  offset: 20, 39
+  index: -1
+expl_01_06
+  rotate: true
+  xy: 822, 187
+  size: 216, 185
+  orig: 256, 256
+  offset: 15, 32
+  index: -1
+expl_01_07
+  rotate: true
+  xy: 624, 180
+  size: 223, 196
+  orig: 256, 256
+  offset: 11, 26
+  index: -1
+expl_01_08
+  rotate: true
+  xy: 420, 175
+  size: 228, 202
+  orig: 256, 256
+  offset: 8, 21
+  index: -1
+expl_01_09
+  rotate: true
+  xy: 2, 170
+  size: 233, 207
+  orig: 256, 256
+  offset: 5, 16
+  index: -1
+expl_01_10
+  rotate: true
+  xy: 211, 170
+  size: 233, 207
+  orig: 256, 256
+  offset: 3, 15
+  index: -1
+expl_01_11
+  rotate: false
+  xy: 1218, 194
+  size: 196, 209
+  orig: 256, 256
+  offset: 42, 14
+  index: -1
+expl_01_12
+  rotate: false
+  xy: 180, 5
+  size: 198, 163
+  orig: 256, 256
+  offset: 42, 56
+  index: -1
+expl_01_13
+  rotate: false
+  xy: 2, 2
+  size: 176, 166
+  orig: 256, 256
+  offset: 41, 54
+  index: -1
+expl_01_14
+  rotate: false
+  xy: 380, 7
+  size: 180, 161
+  orig: 256, 256
+  offset: 39, 53
+  index: -1
+expl_01_15
+  rotate: false
+  xy: 562, 3
+  size: 185, 170
+  orig: 256, 256
+  offset: 36, 52
+  index: -1
+expl_01_16
+  rotate: false
+  xy: 854, 7
+  size: 187, 178
+  orig: 256, 256
+  offset: 35, 51
+  index: -1
