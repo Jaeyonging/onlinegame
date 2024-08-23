@@ -1,0 +1,125 @@
+
+loading.png
+size: 791,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01Cha_body
+  rotate: true
+  xy: 694, 139
+  size: 96, 95
+  orig: 98, 97
+  offset: 1, 1
+  index: -1
+01Cha_eye01
+  rotate: false
+  xy: 592, 36
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+01Cha_eye02
+  rotate: false
+  xy: 609, 12
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+01Cha_eyeBG01
+  rotate: false
+  xy: 448, 19
+  size: 87, 39
+  orig: 89, 41
+  offset: 1, 1
+  index: -1
+01Cha_eyeBG02
+  rotate: false
+  xy: 537, 27
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+01Cha_mouth
+  rotate: false
+  xy: 655, 15
+  size: 16, 20
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+Loading_L
+  rotate: true
+  xy: 580, 10
+  size: 18, 27
+  orig: 21, 29
+  offset: 1, 1
+  index: -1
+Loading_a
+  rotate: false
+  xy: 616, 37
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+Loading_d
+  rotate: true
+  xy: 550, 5
+  size: 20, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+Loading_g
+  rotate: false
+  xy: 570, 30
+  size: 20, 28
+  orig: 22, 30
+  offset: 1, 1
+  index: -1
+Loading_i
+  rotate: true
+  xy: 633, 2
+  size: 10, 28
+  orig: 12, 30
+  offset: 1, 1
+  index: -1
+Loading_n
+  rotate: false
+  xy: 641, 37
+  size: 19, 21
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+Loading_o
+  rotate: false
+  xy: 633, 14
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+ch_shadow
+  rotate: false
+  xy: 448, 2
+  size: 100, 15
+  orig: 102, 17
+  offset: 1, 1
+  index: -1
+laoding01
+  rotate: true
+  xy: 2, 2
+  size: 233, 231
+  orig: 235, 233
+  offset: 1, 1
+  index: -1
+laoding02
+  rotate: true
+  xy: 235, 7
+  size: 228, 211
+  orig: 230, 213
+  offset: 1, 1
+  index: -1
+laoding03
+  rotate: false
+  xy: 448, 60
+  size: 244, 175
+  orig: 246, 177
+  offset: 1, 1
+  index: -1
