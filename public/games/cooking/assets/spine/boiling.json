@@ -1,0 +1,45 @@
+{
+"skeleton": { "hash": "X5ARcHRvNbzsv0Hob1RqEe4jmVM", "spine": "3.8.99", "x": -1, "y": -2087, "width": 3874, "height": 2335 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 885", "parent": "root" },
+	{ "name": "Layer 885 copy", "parent": "root" }
+],
+"slots": [
+	{ "name": "Layer 885", "bone": "Layer 885", "attachment": "Layer 885" },
+	{ "name": "Layer 885 copy", "bone": "Layer 885 copy", "attachment": "Layer 885 copy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 885": {
+				"Layer 885": { "x": 2367, "y": -346.5, "width": 974, "height": 977 }
+			},
+			"Layer 885 copy": {
+				"Layer 885 copy": { "x": 1456.5, "y": -240, "width": 725, "height": 976 }
+			}
+		}
+	}
+],
+"animations": {
+	"boilingAnimation": {
+		"bones": {
+			"Layer 885": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 516 },
+					{ "time": 2 }
+				]
+			},
+			"Layer 885 copy": {
+				"translate": [
+					{ "time": 0.5 },
+					{ "time": 1.5, "y": 516 },
+					{ "time": 2.5 }
+				]
+			}
+		}
+	}
+}
+}
