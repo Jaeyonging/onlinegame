@@ -9,16 +9,27 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route
-          path="/games/01"
+          path="/games/cooking"
           element={
             <iframe
-              src="/games/01/index.html"
-              title="Game 01"
+              src="/games/cooking/index.html"
+              title="cooking"
+              style={{ width: '100%', height: '100vh', border: 'none' }}
+            />
+          }
+        />
+        <Route
+          path="/games/racing"
+          element={
+            <iframe
+              src="/games/racing/index.html"
+              title="racing"
               style={{ width: '100%', height: '100vh', border: 'none' }}
             />
           }
         />
       </Routes>
+
     </Suspense>
   );
 }
